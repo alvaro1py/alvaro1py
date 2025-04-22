@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Me chamo Álvaro Sousa</h1>
 
-<!--
-**alvaro1py/alvaro1py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mim
+- 🎓 Estudante de Engenharia de Software na UNDB  
+- 🧠 Apaixonado por tecnologia, inovação e desenvolvimento  
+- 🚀 Sempre buscando aprender algo novo e crescer profissionalmente
 
-Here are some ideas to get you started:
+## 📚 O que estou estudando no momento
+Atualmente estou cursando:
+- 👨‍💻 "Profissão: Desenvolvedor Full Stack Python" na EBAC
+- 🤖 Curso de Inteligência Artificial (IA) na EBAC
+- 🌐 Aprofundando meus conhecimentos em desenvolvimento web..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projetos recentes
+📚 **Biblioteca Virtual**  
+Bot de interação, cálculo, busca por músicas no youtube, personalização de servidores, informações de perfil de usuários entre outras futuras funções.
+
+## 📫 Onde me encontrar
+- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/%C3%A1lvarosobral/)
+- GitHub: [github.com/seuusuario](https://github.com/alvaro1py)
+
+### 🤖 Linguagens
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</p>
+
+### 🧰 Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+</p>
+
+### 🌐 Fale comigo
+<p>
+  <a href="https://www.linkedin.com/in/%C3%A1lvarosobral/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
