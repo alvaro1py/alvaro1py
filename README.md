@@ -16,8 +16,8 @@ Atualmente estou cursando:
 Bot de interação, cálculo, busca por músicas no youtube, personalização de servidores, informações de perfil de usuários entre outras futuras funções.
 
 ## 📫 Onde me encontrar
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/%C3%A1lvarosobral/)
-- GitHub: [github.com/seuusuario](https://github.com/alvaro1py)
+- LinkedIn: (https://www.linkedin.com/in/%C3%A1lvarosobral/)
+- GitHub: (https://github.com/alvaro1py)
 
 ### 🤖 Linguagens
 <p>
