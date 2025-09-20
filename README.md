@@ -9,15 +9,15 @@
 Atualmente estou cursando:
 - 👨‍💻 "Profissão: Desenvolvedor Full Stack Python" na EBAC
 - 🤖 Curso de Inteligência Artificial (IA) na EBAC
-- 🌐 Aprofundando meus conhecimentos em desenvolvimento web..
+- 🌐 Game Dev na LADG - Liga Acadêmica de Desenvolvimento de Games
 
 ## 🧪 Projetos recentes
 📚 **Biblioteca Virtual**  
 Bot de interação, cálculo, busca por músicas no youtube, personalização de servidores, informações de perfil de usuários entre outras futuras funções.
+Projeto de Jogo Plataforma 2D no estilo Pixel com Sprites.
 
 ## 📫 Onde me encontrar
 - LinkedIn: (https://www.linkedin.com/in/%C3%A1lvarosobral/)
-- GitHub: (https://github.com/alvaro1py)
 
 ### 🤖 Linguagens
 <p>
@@ -26,6 +26,7 @@ Bot de interação, cálculo, busca por músicas no youtube, personalização de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="LUA"/>
 </p>
 
 ### 🧰 Ferramentas
