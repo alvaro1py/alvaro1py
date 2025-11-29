@@ -10,11 +10,15 @@ Atualmente estou cursando:
 - 👨‍💻 "Profissão: Desenvolvedor Full Stack Python" na EBAC
 - 🤖 Curso de Inteligência Artificial (IA) na EBAC
 - 🌐 Game Dev na LADG - Liga Acadêmica de Desenvolvimento de Games
+- 🧠 Cursos de JavaScript e TypeScript
 
 ## 🧪 Projetos recentes
 📚 **Biblioteca Virtual**  
 Bot de interação, cálculo, busca por músicas no youtube, personalização de servidores, informações de perfil de usuários entre outras futuras funções.
 Projeto de Jogo Plataforma 2D no estilo Pixel com Sprites.
+🤖 **Caçadores de Verdades**
+Projeto em equipe com meus colegas da LADG(Liga Acadêmica de Desenvolvimento de Jogos) onde estamos criando um jogo Top-Down Pixel com mecânicas de investigação.
+Utilizamos a engine Godot 4.5x para esse jogo
 
 ## 📫 Onde me encontrar
 - LinkedIn: (https://www.linkedin.com/in/%C3%A1lvarosobral/)
