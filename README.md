@@ -1,57 +1,79 @@
-<h1 align="center">Olá! 👋 Me chamo Álvaro Sousa</h1>
+<h1 align="center">👋 Olá, eu sou o Álvaro Sousa</h1>
 
-## 🧑‍💻 Sobre mim
-- 🎓 Estudante de Engenharia de Software na UNDB  
-- 🧠 Apaixonado por tecnologia, inovação e desenvolvimento  
-- 🚀 Sempre buscando aprender algo novo e crescer profissionalmente
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+formação;Apaixonado+por+tecnologia+🚀" />
+</p>
 
-## 📚 O que estou estudando no momento
-Atualmente estou cursando:
-- 👨‍💻 "Profissão: Desenvolvedor Full Stack Python" na EBAC
-- 🤖 Curso de Inteligência Artificial (IA) na EBAC
-- 🌐 Game Dev na LADG - Liga Acadêmica de Desenvolvimento de Games
-- 🧠 Cursos de JavaScript e TypeScript
+---
 
-## 🧪 Projetos recentes
-📚 **Biblioteca Virtual**  
-Bot de interação, cálculo, busca por músicas no youtube, personalização de servidores, informações de perfil de usuários entre outras futuras funções.
-Projeto de Jogo Plataforma 2D no estilo Pixel com Sprites.
+## 🚀 Sobre mim
 
-🤖 **Caçadores de Verdades**
-Projeto em equipe com meus colegas da LADG(Liga Acadêmica de Desenvolvimento de Jogos) onde estamos criando um jogo Top-Down Pixel com mecânicas de investigação.
-Utilizamos a engine Godot 4.5x para esse jogo
+💻 Estudante de Engenharia de Software na UNDB  
+🔥 Apaixonado por tecnologia, inovação e desenvolvimento  
+📈 Sempre buscando evoluir e aprender algo novo  
 
-## 📫 Onde me encontrar
-<p>
-  <a href="https://www.linkedin.com/in/%C3%A1lvarosobral/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+---
+
+## 📚 O que estou estudando
+
+- 🐍 Desenvolvimento Full Stack Python (EBAC)  
+- 🤖 Inteligência Artificial (EBAC)  
+- 🎮 Desenvolvimento de Games (LADG)  
+- 🌐 JavaScript & TypeScript  
+
+---
+
+## 🧠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,godot,unity" />
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,docker" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **Bot no Discord com Biblioteca Virtual**  
+Bot com Sistema para músicas do YouTube com playlists e personalização, interação e visualização de perfis 
+
+🔹 **Caçadores de Verdades**  
+Jogo em desenvolvimento na Godot Engine com narrativa investigativa e estilo Top-Down pela LADG  
+
+🔹 **Caçadores de Verdades**  
+Jogo em equipe desenvolvido na Unity com narrativa investigativa 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alvaro1py&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro1py&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvarosobral/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/alvrsobral/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="48"/>
   </a>
 </p>
 
-### 🤖 Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="LUA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
+---
 
-### 🧰 Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
+## 💡 Frase
 
-### 🌐 Fale comigo
-<p>
-  <a href="https://www.instagram.com/alvrsobral/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram"/>
-  </a>  
-</p>
-
+> "Construindo hoje o desenvolvedor que quero ser amanhã 🚀"
