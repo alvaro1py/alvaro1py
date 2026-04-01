@@ -22,7 +22,11 @@ Projeto em equipe com meus colegas da LADG(Liga Acadêmica de Desenvolvimento de
 Utilizamos a engine Godot 4.5x para esse jogo
 
 ## 📫 Onde me encontrar
-- LinkedIn: (https://www.linkedin.com/in/%C3%A1lvarosobral/)
+<p>
+  <a href="https://www.linkedin.com/in/%C3%A1lvarosobral/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 
 ### 🤖 Linguagens
 <p>
@@ -46,8 +50,8 @@ Utilizamos a engine Godot 4.5x para esse jogo
 
 ### 🌐 Fale comigo
 <p>
-  <a href="https://www.linkedin.com/in/%C3%A1lvarosobral/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.instagram.com/alvrsobral/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram"/>
+  </a>  
 </p>
 
