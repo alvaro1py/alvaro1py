@@ -47,17 +47,8 @@ Bot com Sistema para músicas do YouTube com playlists e personalização, inter
 🔹 **Caçadores de Verdades**  
 Jogo em desenvolvimento na Godot Engine com narrativa investigativa e estilo Top-Down pela LADG  
 
-🔹 **Caçadores de Verdades**  
-Jogo em equipe desenvolvido na Unity com narrativa investigativa 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alvaro1py&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro1py&layout=compact&theme=tokyonight" />
-</p>
+🔹 **Portifólio Pessoal**  
+Portifólio feito para melhorar o uso de boas práticas e arquitetura de software
 
 ---
 
